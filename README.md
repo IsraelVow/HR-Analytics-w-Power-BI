@@ -42,5 +42,5 @@ This project underscores the importance of leveraging HR analytics to drive info
 
 ## Visualizations
 
-![Dashboard Overview](https://imgur.com/YxPUijL)
+![Dashboard Overview](https://imgur.com/YxPUijL.gif)
 
